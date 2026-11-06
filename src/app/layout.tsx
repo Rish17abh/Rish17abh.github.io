@@ -15,5 +15,13 @@ export const metadata: Metadata = {
   twitter: { card: 'summary_large_image' },
 };
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="en" data-scroll-behavior="smooth" suppressHydrationWarning><body><Providers><a className="skip-link" href="#main">Skip to content</a><div id="top"/><Navigation/>{children}<CursorCompanion/><ScrollMotion/></Providers></body></html>;
+  return <html lang="en" data-scroll-behavior="smooth" suppressHydrationWarning><head><script dangerouslySetInnerHTML={{ __html: `(function () {
+  history.scrollRestoration = 'manual';
+  if (location.hash) history.replaceState(history.state, '', location.pathname + location.search);
+  try { sessionStorage.removeItem('rr-restore-work'); } catch (_) {}
+  window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+  window.addEventListener('pageshow', function () {
+    window.scrollTo({ top: 0, left: 0, behavior: 'instant' });
+  });
+})();` }}/></head><body><Providers><a className="skip-link" href="#main">Skip to content</a><div id="top"/><Navigation/>{children}<CursorCompanion/><ScrollMotion/></Providers></body></html>;
 }
