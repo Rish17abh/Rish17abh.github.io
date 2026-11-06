@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:"static/chunks/c15bf2b0-c080c4e45c5fb392.js"
+3:"static/chunks/422-2613e3c73db5a3ff.js"
+4:"static/chunks/610-4d645050d4d67405.js"
+5:"static/chunks/app/layout-e9441eeec7392a04.js"
+6:I[7124,["592","$2","422","$3","610","$4","177","$5"],"Providers"]
+7:I[2316,["592","$2","422","$3","610","$4","177","$5"],"Navigation"]
+8:I[7121,[],""]
+9:I[4581,[],""]
+a:"static/chunks/app/not-found-663016b71d622e2f.js"
+b:I[8500,["422","$3","345","$a"],""]
+c:"static/chunks/555-183fa39d8fa1cd3d.js"
+d:"static/chunks/185-d392027fa587ad33.js"
+e:"static/chunks/app/page-957f671e9837c269.js"
+f:I[209,["422","$3","555","$c","185","$d","974","$e"],"default"]
+10:I[7882,["592","$2","422","$3","610","$4","177","$5"],"CursorCompanion"]
+11:I[1504,["592","$2","422","$3","610","$4","177","$5"],"ScrollMotion"]
+15:I[484,[],"OutletBoundary"]
+16:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[484,[],"$18"]
+1b:"MetadataBoundary"
+1c:I[484,[],"$1b"]
+1e:I[7123,[],"default",1]
+:HL["/_next/static/css/0d21e620ca58fb39.css","style"]
+13:X
+14:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"shell not-found","children":[["$","p",null,{"className":"eyebrow","children":"404 / A small detour"}],["$","h1",null,{"children":["This page",["$","br",null,{}],"isn’t ",["$","em",null,{"children":"here."}]]}],["$","p",null,{"children":"Let’s get you back to the work."}],["$","$Lb",null,{"href":"/#work","className":"button","children":[["$","$Lf",null,{"ref":"$undefined","icon":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:3:props:notFound:0:props:children:3:props:children:0:props:icon","className":"$undefined","size":18,"aria-hidden":"true"}],"Selected work"]}]]}],null,["$","$L15",null,{"children":["$","$16",null,{"name":"Next.MetadataOutlet","children":"$@17"}]}]]}],"p":false,"v":null}}]]
+12:[["children",{"s":"_not-found","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$13"},"c":"$Q14"}]]
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0d21e620ca58fb39.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","data-scroll-behavior":"smooth","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L6",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","div",null,{"id":"top"}],["$","$L7",null,{}],["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"id":"main","className":"shell not-found","children":[["$","p",null,{"className":"eyebrow","children":"404 / A small detour"}],["$","h1",null,{"children":["This page",["$","br",null,{}],"isn’t ",["$","em",null,{"children":"here."}]]}],["$","p",null,{"children":"Let’s get you back to the work."}],["$","$Lb",null,{"href":"/#work","className":"button","children":[["$","$Lf",null,{"ref":"$undefined","icon":{"name":"arrow-left","size":24,"node":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]]},"className":"$undefined","size":18,"aria-hidden":"true"}],"Selected work"]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$L10",null,{}],["$","$L11",null,{}]]}]}]}]]}],"p":false,"v":null},"c":"$Q12"},"h":{"r":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L19",null,{"children":"$L1a"}],["$","$L1c",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$16",null,{"name":"Next.Metadata","children":"$L1d"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1e",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"NDZNWNz4E8pwDBb9IB_yc"}
+13:C
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1f:I[6869,[],"IconMark"]
+17:null
+1d:[["$","title","0",{"children":"Rishabh Ramteke — Business Intelligence, Data & AI"}],["$","meta","1",{"name":"description","content":"Business intelligence, data engineering and practical AI. Explore Rishabh Ramteke’s professional work and academic projects through interactive outcomes and case studies."}],["$","meta","2",{"property":"og:title","content":"Rishabh Ramteke — Complex data. Clear decisions."}],["$","meta","3",{"property":"og:description","content":"Business Intelligence Engineer | Data & AI"}],["$","meta","4",{"property":"og:image","content":"https://rish17abh.github.io/social-card.png"}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","7",{"name":"twitter:title","content":"Rishabh Ramteke — Complex data. Clear decisions."}],["$","meta","8",{"name":"twitter:description","content":"Business Intelligence Engineer | Data & AI"}],["$","meta","9",{"name":"twitter:image","content":"https://rish17abh.github.io/social-card.png"}],["$","link","10",{"rel":"icon","href":"/icon.svg"}],["$","$L1f","11",{}]]
